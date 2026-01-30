@@ -1,5 +1,6 @@
-# GitHub VS Code Basics
+## Otter Session Links
 
-This repository was created as part of a GitHub basics assignment.
-Changes were made and committed using VS Code.
+- https://otter.ai/u/Nx2b2hl4Tu94wxOrZeV1I5e8mZg
+- https://otter.ai/u/jDHcxYuH1Uy7mV9I-Nvl6iHTYK0
+- https://otter.ai/u/zUmjNOWR8rCF7BJHXb6PgH-Ln-s
 
